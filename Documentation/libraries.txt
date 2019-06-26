@@ -1,0 +1,8 @@
+USED Librabries:
+Python : liac-arff
+https://github.com/LakshKD/liac-arff
+
+tensorflow, pickle, numpy, bs4, pathlib, sklearn, pandas, numpy, matplotlib, seaborn, multiprocessing, nltk
+
+https://github.com/vanHavel/bp-mll-tensorflow
+bp-mll.py

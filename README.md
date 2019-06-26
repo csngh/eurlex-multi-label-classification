@@ -2,6 +2,6 @@
 
 ## Authors: Chetan Singh, Sebastian Hennig
 
-  Contributions: 
+  Contributions: \
     1. Chetan Singh \
-    2. Sebastian Hennig \
+    2. Sebastian Hennig 
